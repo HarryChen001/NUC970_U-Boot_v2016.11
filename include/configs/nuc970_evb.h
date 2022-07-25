@@ -53,7 +53,7 @@
 #define CONFIG_BOARD_EARLY_INIT_F
 #define CONFIG_BOARD_LATE_INIT
 
-#define CONFIG_HW_WATCHDOG
+/*#define CONFIG_HW_WATCHDOG*/
 
 #define CONFIG_SYS_BOOTM_LEN		0x1000000 /* 16MB max kernel size */
 
